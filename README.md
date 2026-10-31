@@ -1,7 +1,6 @@
 # Bifold Door Hardware & Installation Kit
 
-<img width="2100" height="1400" alt="Bifold Door Kit" src="https://github.com/user-attachments/assets/479c2e13-f992-46cf-8916-aae9d7f385e0" />
-
+<img width="2100" height="1520" alt="Kit_Photo" src="https://github.com/user-attachments/assets/2809dda2-c5cc-4242-b1f5-a71eb7a6fdfb" />
 
 ## 📌 Project Overview
 This repository serves as the master documentation hub for the modular Bifold Door Hardware Kit. While the 3D CAD models and motion studies are maintained in a separate repository, this repository contains the 2D manufacturing drawings, Bill of Materials (BOM), and end-user installation manuals. 
