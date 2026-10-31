@@ -28,9 +28,9 @@ This kit is designed to be scalable, supporting both **2-panel** and **4-panel**
 | 15 | HW-006 | M4 x 40mm Machine Screw | 1 |
 
 ## 📂 Repository Structure
-*   `/drawings` - 2D manufacturing drawings (PDF) for the sheet metal brackets, pivots, and aluminum track profiles.
+*   `/drawings` - Manufacturing drawings for the metal brackets, pivots, and aluminum track profiles.
 *   `/3D_drawings` - 3D parts and assemblies.
-*   `/docs` - BOM spreadsheets (`Bifold_Door_Bill_of_Materials.xlxs`).
+*   `/docs` - BOM spreadsheets (`Bifold_Door_Bill_of_Materials.xlxs`) and Manufacturing drawing (pdf).
 
 ## 🛠️ Kit Features
 *   **Complete Hardware Solution:** Includes every screw, anchor, bracket, and pivot needed for installation—no need to source missing parts.
