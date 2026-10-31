@@ -29,7 +29,7 @@ This kit is designed to be scalable, supporting both **2-panel** and **4-panel**
 
 ## 📂 Repository Structure
 *   `/drawings` - 2D manufacturing drawings (PDF) for the sheet metal brackets, pivots, and aluminum track profiles.
-*   `/docs` - BOM spreadsheets (`BOM.csv`).
+*   `/docs` - BOM spreadsheets (`Bifold_Door_Bill_of_Materials.xlxs`).
 
 ## 🛠️ Kit Features
 *   **Complete Hardware Solution:** Includes every screw, anchor, bracket, and pivot needed for installation—no need to source missing parts.
