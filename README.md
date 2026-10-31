@@ -1,4 +1,4 @@
-# Bifold Door Hardware & Installation Kit
+# Bifold Door Hardware Kit
 
 <img width="2100" height="1520" alt="Kit_Photo" src="https://github.com/user-attachments/assets/2809dda2-c5cc-4242-b1f5-a71eb7a6fdfb" />
 
@@ -37,3 +37,6 @@ This kit is designed to be scalable, supporting both **2-panel** and **4-panel**
 *   **Scalable Configuration:** The same hardware kit can be used for standard 2-panel doors or scaled to a 4-panel system for wider openings.
 *   **Adjustable Design:** Slotted holes in the Top and Bottom brackets allow for ±5mm height and depth adjustments to ensure a perfect fit against the door frame.
 *   **Floor Protection:** The Guide Wheel Assembly features a nylon wheel to ensure smooth operation without scratching hardwood or tile floors.
+
+  ## Note:
+*  For the installation guide it was included on the 2-Panel Bifold Door repository
