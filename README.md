@@ -23,7 +23,7 @@ This kit is designed to be scalable, supporting both **2-panel** and **4-panel**
 | 9 | PRT-010 | Connector | 1 |
 | 10 | PRT-011 | Handle | 1 |
 | 11 | HW-001 | #10 x 1.5" Flat Head Wood Screw | 6 |
-| 12 | HW-002 | #8 x 0.75" Pan Head Wood Screw | 12 |
+| 12 | HW-002 | #8 x 0.75" Flat Head Wood Screw | 12 |
 | 13 | HW-003 | #10 x 1" Wood Screw / Concrete Anchor | 1 |
 | 15 | HW-006 | M4 x 40mm Machine Screw | 1 |
 
