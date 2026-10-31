@@ -26,9 +26,8 @@ This kit is designed to be scalable, supporting both **2-panel** and **4-panel**
 | 15 | HW-006 | M4 x 40mm Machine Screw | 1 |
 
 ## 📂 Repository Structure
-*   `/drawings` - 2D manufacturing drawings (PDF & DXF) for the sheet metal brackets, pivots, and aluminum track profiles.
-*   `/docs` - End-user installation manuals, BOM spreadsheets (`BOM.csv`), and packaging guidelines.
-*   `/cut-sheets` - Recommended door panel cut sheets and drilling templates for hinge and pivot placement.
+*   `/drawings` - 2D manufacturing drawings (PDF) for the sheet metal brackets, pivots, and aluminum track profiles.
+*   `/docs` - BOM spreadsheets (`BOM.csv`).
 
 ## 🛠️ Kit Features
 *   **Complete Hardware Solution:** Includes every screw, anchor, bracket, and pivot needed for installation—no need to source missing parts.
